@@ -1,4 +1,4 @@
-# Data Flow Front-end
+# Data Flow 
 <img src="gitData/Data%20Flow%20logo.png" alt="Data Flow Logo" width="170" height="170">
 
 ## Overview
@@ -16,10 +16,7 @@ DataFlow Notebook is a dynamic, code-free platform designed to streamline data m
 - **Python Flask:** Serves as the backend framework, handling data processing and server-side logic.
 - **React/React Flow:** Powers the frontend graphical user interface, enabling interactive data manipulation through visual elements.
 
-## Back-end
-[Python Back-end](https://gitlab.com/usi-si-teaching/msde/2023-2024/visual-analytics/group-projects/team-4)
-
-## Installation 
+## Front-End Installation 
 
 Install modules
 ```shell
@@ -30,3 +27,18 @@ Run
 ```shell
 npm run dev
 ```
+## Back-end Installation 
+
+Create a virtual environment
+```shell
+python3 -m venv .venv
+```
+Activate it
+```shell
+source .venv/bin/activate
+```
+Install requirements
+```shell
+pip install -r requirements.txt
+```
+
