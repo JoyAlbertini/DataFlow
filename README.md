@@ -6,7 +6,7 @@ DataFlow Notebook is a dynamic, code-free platform designed to streamline data m
 
 [Overview Video](https://www.youtube.com/watch?v=k6jkgq2yCus&ab_channel=MSstudioHD)
 
-<img src="gitData/Data%20Flow%202.gif" alt="Data Flow Logo" width="1920" height="1080"> 
+<img src="gitData/Data%20Flow%202.gif" alt="Data Flow Logo" width="1080" height="720"> 
 
 ## Features
 - **Code-Free Data Manipulation:** Engage with data without any coding knowledge using an intuitive drag-and-drop interface.
