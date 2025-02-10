@@ -1,0 +1,47 @@
+{
+  "name": "my-react-flow-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@bokeh/bokehjs": "^3.4.1",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fontsource/roboto": "^5.0.13",
+    "@mui/icons-material": "^5.15.17",
+    "@mui/material": "^5.15.17",
+    "@mui/x-data-grid": "^7.3.2",
+    "axios": "^1.6.8",
+    "draft-js": "^0.11.7",
+    "file-saver": "^2.0.5",
+    "globalthis": "^1.0.4",
+    "prop-types": "^15.8.1",
+    "re-resizable": "^6.9.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-select": "^5.8.0",
+    "react-virtualized": "^9.22.5",
+    "react-virtuoso": "^4.7.11",
+    "react-window": "^1.8.10",
+    "reactflow": "^11.11.3",
+    "sweetalert2": "^11.6.13"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "esbuild-plugin-react-virtualized": "^1.0.4",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "vite": "^5.2.0"
+  }
+}

@@ -1,0 +1,595 @@
+Employee_ID,Permission_Type,Start_Date,End_Date,Status
+0,Maternity Leave,2023-02-26,2023-03-01,Pending
+0,Sick Leave,2023-07-29,2023-08-12,Approved
+0,Paternity Leave,2022-12-29,2023-01-01,Approved
+0,Holiday,2023-08-16,2023-08-19,Denied
+1,Sick Leave,2023-01-06,2023-01-09,Pending
+1,Holiday,2024-05-05,2024-05-19,Denied
+1,Paternity Leave,2023-05-13,2023-05-16,Pending
+1,Holiday,2022-09-29,2022-10-02,Denied
+2,Personal Leave,2023-05-24,2023-05-27,Approved
+2,Maternity Leave,2023-02-23,2023-03-02,Pending
+2,Paternity Leave,2022-09-13,2022-09-16,Approved
+2,Maternity Leave,2023-01-19,2023-01-20,Approved
+3,Personal Leave,2022-10-26,2022-11-02,Denied
+4,Paternity Leave,2023-03-17,2023-03-31,Denied
+5,Paternity Leave,2022-08-22,2022-09-19,Approved
+5,Maternity Leave,2024-01-26,2024-02-09,Denied
+5,Paternity Leave,2023-01-27,2023-02-03,Approved
+5,Personal Leave,2022-07-26,2022-07-29,Approved
+5,Maternity Leave,2023-07-19,2023-07-22,Pending
+6,Personal Leave,2023-12-06,2024-01-03,Denied
+6,Sick Leave,2022-07-07,2022-07-08,Denied
+7,Maternity Leave,2023-03-25,2023-03-28,Denied
+7,Holiday,2024-03-31,2024-04-28,Pending
+8,Maternity Leave,2022-09-18,2022-09-21,Denied
+9,Paternity Leave,2023-05-14,2023-05-21,Approved
+9,Paternity Leave,2022-11-26,2022-12-03,Approved
+9,Paternity Leave,2022-08-07,2022-08-10,Approved
+10,Personal Leave,2023-09-26,2023-10-24,Denied
+11,Maternity Leave,2023-05-11,2023-05-12,Denied
+11,Sick Leave,2022-07-06,2022-07-13,Approved
+11,Personal Leave,2023-06-28,2023-06-29,Pending
+11,Paternity Leave,2022-11-19,2022-11-22,Denied
+11,Sick Leave,2024-04-02,2024-04-03,Pending
+12,Holiday,2022-12-26,2022-12-27,Pending
+12,Sick Leave,2022-06-18,2022-07-16,Approved
+13,Personal Leave,2022-09-02,2022-09-03,Approved
+13,Maternity Leave,2024-05-25,2024-06-01,Denied
+13,Sick Leave,2023-10-21,2023-10-28,Pending
+14,Holiday,2022-07-08,2022-07-15,Pending
+14,Holiday,2022-08-06,2022-09-03,Denied
+14,Maternity Leave,2024-05-07,2024-05-14,Pending
+14,Maternity Leave,2022-11-30,2022-12-28,Pending
+14,Holiday,2023-05-04,2023-05-18,Denied
+15,Sick Leave,2023-06-08,2023-06-22,Pending
+15,Maternity Leave,2023-02-13,2023-02-20,Approved
+16,Paternity Leave,2023-06-05,2023-06-19,Approved
+16,Paternity Leave,2023-04-27,2023-05-04,Pending
+17,Maternity Leave,2024-05-20,2024-05-27,Pending
+18,Paternity Leave,2023-10-20,2023-11-03,Pending
+19,Holiday,2023-04-27,2023-05-25,Denied
+19,Personal Leave,2023-07-05,2023-07-12,Denied
+20,Sick Leave,2023-02-13,2023-03-13,Denied
+20,Holiday,2022-09-17,2022-09-24,Pending
+21,Personal Leave,2022-07-20,2022-07-23,Pending
+21,Paternity Leave,2023-04-25,2023-04-26,Denied
+22,Personal Leave,2022-07-28,2022-08-04,Denied
+23,Paternity Leave,2023-12-19,2023-12-22,Denied
+23,Paternity Leave,2022-11-28,2022-12-05,Pending
+23,Maternity Leave,2023-12-08,2023-12-22,Denied
+24,Maternity Leave,2022-11-03,2022-11-06,Denied
+24,Personal Leave,2024-02-25,2024-03-03,Approved
+25,Holiday,2023-07-11,2023-08-08,Denied
+25,Sick Leave,2024-03-09,2024-03-23,Pending
+25,Paternity Leave,2022-08-14,2022-08-21,Pending
+25,Personal Leave,2023-08-26,2023-09-09,Denied
+26,Sick Leave,2023-04-29,2023-05-27,Denied
+26,Personal Leave,2023-08-01,2023-08-15,Pending
+26,Paternity Leave,2023-04-22,2023-05-20,Pending
+26,Paternity Leave,2024-02-29,2024-03-03,Pending
+27,Paternity Leave,2022-11-02,2022-11-30,Approved
+27,Paternity Leave,2023-05-08,2023-05-22,Pending
+27,Maternity Leave,2022-07-31,2022-08-03,Denied
+27,Personal Leave,2024-04-01,2024-04-15,Pending
+28,Paternity Leave,2023-02-19,2023-02-20,Approved
+28,Paternity Leave,2022-08-11,2022-08-14,Pending
+29,Holiday,2023-06-14,2023-07-12,Approved
+29,Paternity Leave,2022-08-02,2022-08-05,Pending
+29,Sick Leave,2023-12-05,2023-12-06,Pending
+29,Personal Leave,2023-09-20,2023-10-04,Denied
+29,Holiday,2024-03-16,2024-03-30,Pending
+30,Maternity Leave,2022-10-29,2022-11-26,Denied
+30,Paternity Leave,2022-08-16,2022-08-23,Pending
+30,Holiday,2024-05-15,2024-05-29,Pending
+30,Holiday,2023-04-30,2023-05-28,Approved
+31,Personal Leave,2023-04-11,2023-04-14,Denied
+31,Personal Leave,2022-05-30,2022-06-27,Denied
+32,Sick Leave,2023-12-05,2023-12-19,Pending
+32,Personal Leave,2023-11-28,2023-12-26,Approved
+33,Holiday,2023-07-10,2023-07-11,Denied
+33,Personal Leave,2024-05-14,2024-05-21,Pending
+34,Personal Leave,2023-12-27,2024-01-03,Denied
+34,Maternity Leave,2024-03-06,2024-04-03,Denied
+35,Holiday,2023-10-09,2023-10-16,Denied
+35,Paternity Leave,2023-11-07,2023-12-05,Approved
+36,Holiday,2023-05-27,2023-05-28,Pending
+36,Paternity Leave,2024-02-03,2024-02-10,Denied
+36,Holiday,2024-03-13,2024-03-16,Pending
+36,Holiday,2022-06-08,2022-07-06,Denied
+37,Personal Leave,2024-04-12,2024-04-15,Pending
+37,Maternity Leave,2023-09-15,2023-09-16,Pending
+38,Sick Leave,2023-03-01,2023-03-29,Approved
+38,Personal Leave,2022-09-27,2022-10-25,Approved
+38,Holiday,2022-11-24,2022-12-01,Approved
+38,Personal Leave,2023-07-25,2023-08-22,Approved
+39,Sick Leave,2023-03-24,2023-03-27,Denied
+39,Paternity Leave,2023-12-07,2023-12-14,Pending
+39,Paternity Leave,2023-08-11,2023-08-25,Pending
+40,Holiday,2023-01-08,2023-01-11,Denied
+40,Sick Leave,2024-03-01,2024-03-15,Denied
+40,Maternity Leave,2023-06-26,2023-07-24,Pending
+40,Maternity Leave,2022-05-29,2022-06-05,Denied
+40,Sick Leave,2022-07-14,2022-07-15,Denied
+41,Sick Leave,2022-05-31,2022-06-28,Approved
+41,Sick Leave,2022-08-06,2022-08-13,Denied
+42,Maternity Leave,2023-01-03,2023-01-17,Denied
+43,Personal Leave,2023-05-13,2023-05-14,Approved
+43,Paternity Leave,2023-09-09,2023-09-23,Approved
+44,Holiday,2023-07-20,2023-08-03,Approved
+44,Personal Leave,2022-05-29,2022-06-01,Denied
+44,Sick Leave,2023-04-30,2023-05-01,Approved
+44,Paternity Leave,2022-09-22,2022-09-23,Approved
+44,Maternity Leave,2023-05-30,2023-06-02,Denied
+45,Personal Leave,2023-11-19,2023-12-03,Pending
+45,Personal Leave,2022-09-08,2022-09-09,Approved
+45,Maternity Leave,2022-10-22,2022-11-19,Pending
+45,Holiday,2024-03-14,2024-03-17,Denied
+46,Holiday,2023-05-22,2023-05-25,Pending
+46,Personal Leave,2024-03-15,2024-03-16,Pending
+47,Holiday,2023-01-16,2023-01-30,Approved
+47,Personal Leave,2023-02-01,2023-02-08,Pending
+47,Holiday,2024-02-25,2024-03-10,Approved
+47,Maternity Leave,2024-01-01,2024-01-04,Pending
+47,Maternity Leave,2022-11-08,2022-12-06,Denied
+48,Maternity Leave,2022-06-09,2022-06-16,Approved
+48,Personal Leave,2024-05-07,2024-05-14,Denied
+48,Paternity Leave,2023-03-09,2023-03-23,Approved
+48,Sick Leave,2024-04-14,2024-05-12,Denied
+48,Sick Leave,2023-09-29,2023-10-27,Approved
+49,Holiday,2022-10-09,2022-11-06,Approved
+49,Holiday,2022-07-21,2022-08-04,Approved
+49,Holiday,2023-06-21,2023-07-19,Denied
+49,Sick Leave,2022-10-06,2022-10-07,Approved
+49,Holiday,2023-01-03,2023-01-06,Denied
+50,Maternity Leave,2024-01-27,2024-02-24,Denied
+50,Sick Leave,2023-12-03,2023-12-06,Approved
+50,Sick Leave,2024-03-17,2024-03-31,Denied
+50,Personal Leave,2024-05-08,2024-06-05,Denied
+51,Sick Leave,2022-12-25,2023-01-08,Pending
+51,Sick Leave,2024-03-08,2024-04-05,Approved
+51,Personal Leave,2024-01-01,2024-01-04,Denied
+51,Paternity Leave,2024-02-03,2024-03-02,Denied
+52,Maternity Leave,2023-03-02,2023-03-09,Denied
+52,Holiday,2023-07-12,2023-07-13,Denied
+53,Maternity Leave,2023-10-09,2023-10-12,Pending
+53,Sick Leave,2022-09-06,2022-09-20,Pending
+53,Maternity Leave,2023-12-07,2023-12-14,Pending
+53,Paternity Leave,2022-10-08,2022-10-15,Pending
+53,Personal Leave,2023-04-16,2023-04-19,Denied
+54,Holiday,2022-12-17,2023-01-14,Approved
+54,Holiday,2022-10-04,2022-10-05,Denied
+54,Holiday,2023-10-02,2023-10-03,Pending
+54,Personal Leave,2023-08-24,2023-09-07,Approved
+55,Maternity Leave,2024-05-13,2024-05-16,Approved
+56,Sick Leave,2023-08-17,2023-08-20,Pending
+56,Personal Leave,2023-07-04,2023-07-07,Approved
+57,Personal Leave,2023-11-30,2023-12-01,Pending
+57,Maternity Leave,2022-10-29,2022-10-30,Approved
+58,Personal Leave,2022-07-31,2022-08-14,Denied
+58,Holiday,2023-11-04,2023-11-05,Approved
+58,Maternity Leave,2023-08-21,2023-08-22,Denied
+58,Holiday,2023-09-07,2023-09-10,Denied
+59,Paternity Leave,2022-06-01,2022-06-08,Denied
+59,Sick Leave,2023-11-08,2023-11-09,Approved
+59,Personal Leave,2023-02-10,2023-02-11,Pending
+60,Holiday,2022-10-21,2022-10-28,Pending
+61,Holiday,2022-10-25,2022-10-28,Pending
+61,Personal Leave,2022-12-23,2023-01-20,Pending
+61,Maternity Leave,2023-08-16,2023-08-23,Denied
+62,Sick Leave,2023-03-20,2023-03-27,Denied
+62,Holiday,2023-03-15,2023-03-22,Denied
+62,Holiday,2023-10-28,2023-11-25,Approved
+62,Holiday,2023-12-30,2024-01-13,Pending
+63,Maternity Leave,2024-04-06,2024-04-13,Pending
+63,Maternity Leave,2023-05-21,2023-05-28,Approved
+63,Sick Leave,2022-12-01,2022-12-02,Pending
+63,Paternity Leave,2023-01-02,2023-01-16,Denied
+63,Maternity Leave,2022-06-21,2022-06-28,Approved
+64,Maternity Leave,2022-06-26,2022-07-10,Denied
+64,Paternity Leave,2022-11-07,2022-11-14,Pending
+64,Paternity Leave,2022-09-06,2022-09-13,Pending
+64,Maternity Leave,2022-12-25,2023-01-01,Pending
+65,Holiday,2024-01-10,2024-01-17,Pending
+65,Sick Leave,2023-08-13,2023-08-16,Denied
+65,Maternity Leave,2022-06-15,2022-07-13,Pending
+65,Sick Leave,2024-02-26,2024-02-29,Denied
+65,Maternity Leave,2022-10-17,2022-10-31,Denied
+66,Holiday,2024-05-23,2024-06-20,Pending
+66,Holiday,2023-11-22,2023-12-06,Pending
+67,Paternity Leave,2022-05-27,2022-05-28,Approved
+67,Holiday,2022-06-18,2022-07-16,Approved
+67,Holiday,2023-05-25,2023-06-08,Denied
+67,Personal Leave,2024-02-18,2024-03-17,Approved
+67,Paternity Leave,2023-01-11,2023-01-18,Pending
+68,Personal Leave,2022-12-11,2023-01-08,Pending
+68,Maternity Leave,2023-06-03,2023-06-06,Denied
+68,Maternity Leave,2023-12-20,2023-12-27,Approved
+68,Sick Leave,2023-02-24,2023-03-10,Pending
+68,Personal Leave,2023-09-16,2023-10-14,Approved
+69,Paternity Leave,2022-11-06,2022-11-13,Approved
+70,Personal Leave,2023-07-31,2023-08-01,Pending
+70,Personal Leave,2024-04-20,2024-04-23,Approved
+71,Holiday,2024-03-25,2024-04-22,Pending
+72,Maternity Leave,2023-08-07,2023-08-08,Pending
+72,Holiday,2024-04-03,2024-04-10,Pending
+73,Holiday,2024-03-07,2024-03-08,Denied
+73,Holiday,2023-11-04,2023-12-02,Pending
+73,Holiday,2022-11-21,2022-11-28,Denied
+73,Holiday,2022-11-12,2022-11-26,Pending
+73,Paternity Leave,2023-04-07,2023-04-14,Approved
+74,Maternity Leave,2023-06-22,2023-06-29,Pending
+75,Personal Leave,2024-05-14,2024-05-21,Approved
+75,Sick Leave,2024-01-30,2024-02-13,Approved
+75,Paternity Leave,2022-07-17,2022-08-14,Approved
+76,Paternity Leave,2024-03-10,2024-03-13,Approved
+77,Sick Leave,2024-01-27,2024-02-03,Pending
+77,Personal Leave,2023-02-09,2023-03-09,Denied
+77,Personal Leave,2023-02-27,2023-03-27,Pending
+78,Sick Leave,2023-04-27,2023-05-04,Pending
+78,Personal Leave,2023-01-31,2023-02-28,Approved
+78,Personal Leave,2023-10-21,2023-10-28,Approved
+79,Holiday,2023-04-25,2023-04-28,Denied
+79,Personal Leave,2024-02-05,2024-03-04,Approved
+80,Holiday,2023-11-12,2023-11-15,Denied
+80,Sick Leave,2024-04-17,2024-05-15,Pending
+80,Holiday,2023-07-10,2023-08-07,Approved
+80,Sick Leave,2023-10-12,2023-10-26,Denied
+80,Paternity Leave,2024-03-24,2024-04-21,Approved
+81,Personal Leave,2023-01-26,2023-02-02,Denied
+81,Paternity Leave,2023-04-25,2023-05-09,Denied
+82,Personal Leave,2022-12-03,2022-12-17,Denied
+82,Sick Leave,2023-02-24,2023-03-24,Pending
+82,Paternity Leave,2024-01-19,2024-01-26,Approved
+82,Holiday,2023-11-10,2023-12-08,Approved
+82,Paternity Leave,2024-04-27,2024-05-04,Pending
+83,Paternity Leave,2023-07-25,2023-08-08,Approved
+84,Maternity Leave,2023-04-29,2023-04-30,Pending
+84,Personal Leave,2024-01-22,2024-02-05,Approved
+84,Holiday,2024-03-28,2024-04-04,Denied
+84,Maternity Leave,2023-01-23,2023-01-30,Pending
+85,Paternity Leave,2022-10-05,2022-11-02,Pending
+85,Paternity Leave,2023-09-07,2023-09-10,Pending
+85,Maternity Leave,2023-10-25,2023-11-01,Approved
+85,Holiday,2023-05-25,2023-06-08,Denied
+86,Paternity Leave,2024-04-16,2024-04-19,Pending
+86,Paternity Leave,2023-11-26,2023-12-24,Denied
+86,Holiday,2023-02-17,2023-03-03,Pending
+86,Paternity Leave,2022-10-23,2022-10-26,Denied
+87,Paternity Leave,2022-08-03,2022-08-17,Denied
+87,Maternity Leave,2023-11-10,2023-12-08,Denied
+87,Sick Leave,2024-01-22,2024-01-23,Pending
+88,Sick Leave,2023-12-03,2023-12-17,Approved
+89,Maternity Leave,2022-12-13,2022-12-20,Approved
+89,Sick Leave,2024-04-01,2024-04-04,Pending
+89,Sick Leave,2023-04-01,2023-04-08,Pending
+90,Paternity Leave,2023-12-26,2024-01-23,Approved
+90,Maternity Leave,2024-02-13,2024-03-12,Pending
+90,Holiday,2022-09-28,2022-10-12,Pending
+90,Holiday,2024-04-07,2024-04-21,Approved
+91,Maternity Leave,2024-05-16,2024-05-19,Approved
+91,Paternity Leave,2023-10-25,2023-10-26,Approved
+91,Personal Leave,2023-09-03,2023-09-06,Approved
+91,Holiday,2023-03-10,2023-03-24,Pending
+91,Personal Leave,2022-08-04,2022-08-07,Approved
+92,Personal Leave,2023-04-21,2023-05-19,Pending
+92,Maternity Leave,2024-01-23,2024-01-26,Approved
+92,Personal Leave,2023-02-10,2023-02-13,Approved
+92,Paternity Leave,2024-02-25,2024-03-03,Approved
+92,Personal Leave,2023-12-18,2023-12-19,Approved
+93,Personal Leave,2024-03-07,2024-03-14,Pending
+93,Paternity Leave,2022-08-30,2022-09-13,Denied
+93,Maternity Leave,2023-12-15,2023-12-16,Denied
+93,Holiday,2023-08-02,2023-08-30,Approved
+93,Personal Leave,2023-12-30,2024-01-27,Pending
+94,Personal Leave,2022-09-24,2022-10-08,Pending
+94,Paternity Leave,2023-11-21,2023-12-05,Pending
+94,Paternity Leave,2023-06-24,2023-07-01,Pending
+94,Sick Leave,2022-11-15,2022-11-22,Approved
+94,Maternity Leave,2022-12-01,2022-12-02,Approved
+95,Sick Leave,2022-08-05,2022-08-06,Pending
+95,Maternity Leave,2023-11-06,2023-12-04,Pending
+95,Personal Leave,2022-11-01,2022-11-08,Approved
+96,Holiday,2024-05-05,2024-05-06,Pending
+96,Maternity Leave,2022-06-30,2022-07-28,Pending
+96,Holiday,2022-10-30,2022-11-02,Pending
+96,Maternity Leave,2023-06-16,2023-06-23,Approved
+96,Personal Leave,2022-11-12,2022-11-15,Pending
+97,Sick Leave,2022-10-11,2022-10-18,Approved
+98,Personal Leave,2023-11-30,2023-12-14,Pending
+98,Maternity Leave,2022-08-21,2022-09-04,Pending
+98,Maternity Leave,2023-08-21,2023-08-28,Approved
+98,Sick Leave,2024-02-05,2024-02-12,Pending
+99,Maternity Leave,2023-04-29,2023-05-06,Denied
+99,Maternity Leave,2022-10-30,2022-11-13,Pending
+99,Personal Leave,2022-07-05,2022-07-06,Pending
+99,Holiday,2023-08-09,2023-08-10,Pending
+99,Personal Leave,2024-05-03,2024-05-10,Approved
+100,Sick Leave,2022-07-01,2022-07-15,Denied
+100,Maternity Leave,2022-10-21,2022-11-04,Denied
+100,Sick Leave,2023-06-15,2023-07-13,Approved
+100,Sick Leave,2024-02-08,2024-03-07,Pending
+101,Holiday,2023-12-17,2024-01-14,Approved
+101,Holiday,2022-08-24,2022-09-07,Approved
+102,Maternity Leave,2024-02-01,2024-02-04,Denied
+102,Personal Leave,2024-05-24,2024-05-27,Pending
+103,Maternity Leave,2022-05-27,2022-06-10,Approved
+103,Holiday,2023-02-27,2023-03-02,Pending
+103,Sick Leave,2023-03-05,2023-03-08,Pending
+103,Personal Leave,2023-08-06,2023-08-13,Approved
+104,Maternity Leave,2024-04-12,2024-04-13,Denied
+104,Maternity Leave,2024-02-11,2024-02-14,Approved
+104,Maternity Leave,2024-02-25,2024-03-03,Approved
+104,Paternity Leave,2023-01-04,2023-01-18,Denied
+105,Maternity Leave,2022-08-08,2022-08-15,Denied
+106,Paternity Leave,2023-01-26,2023-01-29,Denied
+106,Sick Leave,2023-01-25,2023-02-08,Pending
+106,Sick Leave,2023-06-05,2023-06-08,Approved
+106,Paternity Leave,2023-03-16,2023-03-30,Approved
+106,Paternity Leave,2022-06-29,2022-07-27,Approved
+107,Maternity Leave,2022-10-17,2022-10-18,Pending
+108,Holiday,2023-01-17,2023-02-14,Approved
+109,Paternity Leave,2023-12-15,2023-12-18,Pending
+110,Paternity Leave,2022-08-11,2022-08-18,Approved
+110,Personal Leave,2022-07-11,2022-07-12,Pending
+111,Personal Leave,2022-12-11,2023-01-08,Approved
+111,Paternity Leave,2023-08-07,2023-08-10,Denied
+111,Sick Leave,2023-07-21,2023-07-22,Approved
+111,Maternity Leave,2022-06-19,2022-07-17,Denied
+111,Paternity Leave,2022-11-24,2022-12-22,Pending
+112,Paternity Leave,2022-06-10,2022-06-17,Denied
+113,Holiday,2023-07-02,2023-07-03,Denied
+113,Maternity Leave,2023-09-21,2023-09-24,Denied
+113,Holiday,2023-10-14,2023-10-21,Denied
+113,Maternity Leave,2023-11-10,2023-11-11,Denied
+113,Paternity Leave,2023-01-17,2023-01-20,Denied
+114,Paternity Leave,2022-11-14,2022-11-21,Pending
+114,Maternity Leave,2022-08-26,2022-08-27,Pending
+114,Personal Leave,2022-11-09,2022-12-07,Approved
+114,Sick Leave,2022-12-14,2023-01-11,Denied
+115,Personal Leave,2023-02-19,2023-03-19,Denied
+115,Sick Leave,2023-08-15,2023-09-12,Pending
+115,Paternity Leave,2022-10-05,2022-10-08,Pending
+115,Paternity Leave,2023-06-18,2023-07-02,Denied
+116,Holiday,2023-11-29,2023-12-02,Approved
+116,Paternity Leave,2024-01-14,2024-02-11,Approved
+116,Maternity Leave,2023-07-18,2023-08-15,Denied
+116,Paternity Leave,2023-10-29,2023-11-26,Pending
+116,Holiday,2022-09-15,2022-09-18,Approved
+117,Holiday,2024-03-17,2024-03-20,Pending
+117,Maternity Leave,2022-10-03,2022-10-06,Approved
+117,Sick Leave,2023-02-21,2023-02-22,Approved
+117,Maternity Leave,2023-08-16,2023-09-13,Approved
+117,Sick Leave,2022-10-21,2022-10-22,Denied
+118,Maternity Leave,2024-01-03,2024-01-10,Pending
+118,Maternity Leave,2023-09-14,2023-09-17,Approved
+118,Sick Leave,2024-02-18,2024-02-19,Denied
+119,Holiday,2022-09-02,2022-09-16,Pending
+119,Maternity Leave,2023-08-14,2023-08-15,Approved
+119,Sick Leave,2023-01-21,2023-01-22,Denied
+119,Maternity Leave,2022-06-20,2022-07-04,Approved
+120,Paternity Leave,2022-11-03,2022-11-10,Pending
+120,Maternity Leave,2023-03-01,2023-03-02,Denied
+121,Holiday,2023-02-02,2023-02-09,Pending
+122,Holiday,2022-07-14,2022-07-17,Denied
+122,Paternity Leave,2022-08-09,2022-09-06,Pending
+123,Sick Leave,2022-05-27,2022-05-30,Denied
+123,Sick Leave,2023-09-12,2023-09-26,Denied
+123,Sick Leave,2023-08-03,2023-08-06,Approved
+124,Personal Leave,2024-03-15,2024-03-18,Pending
+124,Sick Leave,2024-02-07,2024-02-10,Denied
+124,Holiday,2023-02-20,2023-03-06,Denied
+124,Sick Leave,2022-06-11,2022-06-14,Denied
+124,Holiday,2023-07-29,2023-08-12,Approved
+125,Holiday,2023-07-13,2023-07-14,Denied
+125,Paternity Leave,2023-10-15,2023-10-16,Approved
+125,Sick Leave,2023-02-19,2023-02-26,Approved
+125,Paternity Leave,2023-08-29,2023-09-12,Denied
+125,Sick Leave,2024-05-01,2024-05-02,Approved
+126,Holiday,2023-03-01,2023-03-02,Approved
+126,Holiday,2023-08-11,2023-08-12,Approved
+126,Paternity Leave,2023-05-18,2023-05-25,Approved
+127,Sick Leave,2023-04-18,2023-04-25,Pending
+128,Holiday,2022-09-30,2022-10-01,Denied
+129,Maternity Leave,2023-01-15,2023-02-12,Approved
+130,Paternity Leave,2022-12-03,2022-12-31,Denied
+131,Holiday,2024-04-23,2024-04-26,Pending
+131,Holiday,2023-06-10,2023-06-11,Approved
+132,Holiday,2023-08-28,2023-09-04,Pending
+132,Paternity Leave,2022-07-26,2022-07-29,Denied
+132,Paternity Leave,2022-08-14,2022-08-28,Denied
+133,Personal Leave,2023-10-23,2023-10-24,Approved
+133,Sick Leave,2022-08-05,2022-08-06,Denied
+134,Sick Leave,2023-08-24,2023-08-25,Pending
+134,Holiday,2022-12-29,2022-12-30,Pending
+134,Paternity Leave,2023-10-02,2023-10-05,Approved
+135,Personal Leave,2022-09-27,2022-10-11,Pending
+135,Paternity Leave,2024-04-17,2024-04-18,Pending
+136,Holiday,2022-08-25,2022-09-08,Denied
+137,Maternity Leave,2023-02-13,2023-02-16,Approved
+137,Sick Leave,2023-05-25,2023-05-26,Pending
+137,Sick Leave,2022-06-05,2022-06-19,Denied
+137,Sick Leave,2023-04-18,2023-05-16,Approved
+137,Sick Leave,2023-06-03,2023-06-17,Pending
+138,Maternity Leave,2024-01-11,2024-01-18,Approved
+138,Personal Leave,2022-11-28,2022-12-12,Denied
+138,Paternity Leave,2023-08-05,2023-08-06,Pending
+139,Personal Leave,2023-11-23,2023-12-21,Pending
+139,Personal Leave,2023-03-13,2023-03-14,Denied
+139,Maternity Leave,2023-09-05,2023-09-06,Denied
+139,Maternity Leave,2023-06-11,2023-07-09,Pending
+139,Maternity Leave,2022-08-11,2022-08-18,Denied
+140,Maternity Leave,2023-11-17,2023-11-20,Denied
+140,Paternity Leave,2023-09-05,2023-10-03,Pending
+140,Maternity Leave,2022-07-13,2022-07-27,Denied
+141,Paternity Leave,2022-06-15,2022-06-22,Approved
+142,Holiday,2024-03-13,2024-03-27,Pending
+142,Paternity Leave,2024-05-19,2024-05-26,Pending
+142,Personal Leave,2024-05-17,2024-05-24,Pending
+142,Paternity Leave,2022-10-28,2022-11-04,Pending
+143,Holiday,2023-10-19,2023-10-20,Approved
+143,Personal Leave,2022-07-23,2022-07-24,Denied
+143,Sick Leave,2024-05-24,2024-05-31,Pending
+143,Personal Leave,2022-07-29,2022-08-12,Approved
+144,Holiday,2022-07-07,2022-07-21,Approved
+144,Sick Leave,2023-10-05,2023-10-19,Pending
+144,Paternity Leave,2022-09-13,2022-09-27,Pending
+144,Personal Leave,2022-06-14,2022-07-12,Pending
+144,Holiday,2024-03-13,2024-03-27,Approved
+145,Sick Leave,2024-03-09,2024-03-16,Pending
+145,Paternity Leave,2024-04-17,2024-04-20,Denied
+145,Maternity Leave,2022-06-08,2022-06-22,Approved
+145,Personal Leave,2023-12-09,2023-12-12,Approved
+145,Maternity Leave,2023-04-26,2023-04-27,Denied
+146,Sick Leave,2023-06-05,2023-07-03,Approved
+146,Paternity Leave,2023-02-08,2023-02-15,Denied
+146,Maternity Leave,2023-06-05,2023-07-03,Approved
+147,Paternity Leave,2024-04-05,2024-04-06,Pending
+147,Maternity Leave,2022-07-31,2022-08-01,Denied
+147,Paternity Leave,2023-11-26,2023-12-03,Pending
+147,Holiday,2024-01-17,2024-01-24,Pending
+148,Holiday,2023-10-14,2023-10-15,Denied
+149,Maternity Leave,2022-10-26,2022-11-09,Denied
+149,Maternity Leave,2022-11-26,2022-12-10,Pending
+149,Holiday,2022-08-29,2022-09-26,Pending
+149,Holiday,2022-12-28,2022-12-29,Approved
+150,Sick Leave,2023-04-24,2023-05-08,Pending
+150,Maternity Leave,2023-01-29,2023-01-30,Approved
+150,Paternity Leave,2023-03-14,2023-04-11,Denied
+150,Sick Leave,2023-06-20,2023-07-04,Approved
+151,Holiday,2023-06-14,2023-06-17,Pending
+151,Paternity Leave,2023-11-22,2023-11-23,Pending
+152,Sick Leave,2024-01-16,2024-01-17,Denied
+152,Personal Leave,2023-11-30,2023-12-07,Pending
+152,Sick Leave,2022-11-09,2022-11-23,Denied
+153,Personal Leave,2023-02-18,2023-03-18,Approved
+153,Maternity Leave,2024-02-29,2024-03-14,Denied
+154,Sick Leave,2023-11-14,2023-11-17,Approved
+154,Sick Leave,2022-12-07,2022-12-10,Pending
+154,Holiday,2023-01-10,2023-01-13,Approved
+154,Holiday,2024-04-08,2024-04-22,Pending
+155,Holiday,2024-05-03,2024-05-31,Approved
+155,Holiday,2023-07-13,2023-07-27,Pending
+155,Personal Leave,2023-03-29,2023-03-30,Approved
+156,Personal Leave,2022-11-20,2022-12-04,Denied
+157,Maternity Leave,2023-09-19,2023-10-03,Denied
+157,Holiday,2022-08-11,2022-08-18,Pending
+157,Personal Leave,2023-12-19,2023-12-20,Approved
+157,Personal Leave,2022-10-06,2022-10-07,Denied
+157,Maternity Leave,2023-03-16,2023-04-13,Approved
+158,Sick Leave,2024-03-17,2024-03-20,Denied
+158,Paternity Leave,2023-07-09,2023-07-16,Approved
+158,Paternity Leave,2022-10-20,2022-10-21,Approved
+158,Sick Leave,2022-10-29,2022-11-01,Approved
+159,Sick Leave,2022-09-06,2022-10-04,Pending
+160,Holiday,2022-10-29,2022-10-30,Pending
+161,Holiday,2023-12-23,2023-12-26,Pending
+161,Sick Leave,2023-04-16,2023-05-14,Denied
+162,Holiday,2023-03-11,2023-03-14,Denied
+163,Holiday,2023-03-21,2023-03-24,Denied
+163,Sick Leave,2023-07-18,2023-08-01,Approved
+163,Paternity Leave,2022-10-12,2022-10-15,Pending
+164,Sick Leave,2023-10-18,2023-11-01,Pending
+164,Personal Leave,2022-07-11,2022-08-08,Denied
+164,Paternity Leave,2023-05-22,2023-06-05,Denied
+164,Maternity Leave,2023-04-28,2023-05-01,Pending
+164,Personal Leave,2022-08-29,2022-09-05,Approved
+165,Maternity Leave,2024-03-04,2024-03-05,Approved
+165,Sick Leave,2023-10-09,2023-11-06,Approved
+165,Maternity Leave,2023-04-26,2023-05-24,Approved
+165,Paternity Leave,2022-12-05,2023-01-02,Pending
+166,Personal Leave,2022-07-03,2022-07-31,Approved
+167,Personal Leave,2022-07-18,2022-08-01,Approved
+167,Paternity Leave,2022-12-01,2022-12-29,Pending
+168,Holiday,2022-09-03,2022-10-01,Denied
+168,Sick Leave,2023-12-31,2024-01-28,Pending
+168,Paternity Leave,2023-12-11,2023-12-18,Denied
+169,Sick Leave,2022-07-21,2022-07-24,Denied
+169,Holiday,2023-01-25,2023-02-01,Approved
+169,Paternity Leave,2022-08-25,2022-09-01,Denied
+170,Personal Leave,2022-07-12,2022-07-15,Pending
+171,Paternity Leave,2022-08-24,2022-09-07,Approved
+171,Holiday,2023-05-26,2023-05-29,Approved
+171,Holiday,2024-05-02,2024-05-16,Denied
+171,Personal Leave,2024-02-08,2024-02-15,Approved
+171,Sick Leave,2022-08-24,2022-09-21,Pending
+172,Maternity Leave,2023-07-13,2023-07-14,Approved
+172,Maternity Leave,2023-11-04,2023-11-11,Approved
+173,Maternity Leave,2023-01-12,2023-01-19,Denied
+173,Paternity Leave,2024-04-04,2024-05-02,Denied
+173,Personal Leave,2022-12-01,2022-12-15,Denied
+174,Paternity Leave,2022-10-12,2022-10-13,Approved
+174,Paternity Leave,2023-11-27,2023-12-11,Approved
+174,Maternity Leave,2023-07-15,2023-07-29,Denied
+175,Paternity Leave,2023-01-21,2023-01-24,Approved
+175,Maternity Leave,2023-09-06,2023-09-20,Pending
+176,Personal Leave,2023-10-11,2023-10-12,Pending
+176,Personal Leave,2023-02-19,2023-02-22,Denied
+176,Holiday,2024-04-02,2024-04-03,Pending
+177,Holiday,2023-05-09,2023-05-10,Denied
+177,Sick Leave,2024-04-25,2024-05-09,Approved
+177,Paternity Leave,2023-04-19,2023-04-20,Approved
+177,Paternity Leave,2024-05-02,2024-05-05,Denied
+177,Maternity Leave,2023-03-29,2023-04-12,Denied
+178,Holiday,2023-09-02,2023-09-03,Pending
+178,Sick Leave,2023-09-01,2023-09-08,Denied
+179,Sick Leave,2024-03-01,2024-03-29,Pending
+179,Maternity Leave,2023-01-23,2023-02-06,Denied
+179,Paternity Leave,2022-07-19,2022-07-26,Pending
+179,Maternity Leave,2023-07-15,2023-07-16,Pending
+179,Maternity Leave,2022-07-08,2022-07-09,Denied
+180,Holiday,2024-05-07,2024-06-04,Denied
+181,Sick Leave,2023-09-17,2023-09-18,Denied
+181,Personal Leave,2022-10-02,2022-10-03,Denied
+182,Sick Leave,2024-04-05,2024-04-08,Pending
+182,Paternity Leave,2022-10-01,2022-10-08,Pending
+182,Paternity Leave,2023-10-22,2023-10-29,Pending
+182,Sick Leave,2023-10-27,2023-11-03,Denied
+183,Holiday,2023-01-25,2023-02-22,Pending
+183,Holiday,2023-07-07,2023-07-21,Pending
+184,Paternity Leave,2023-07-24,2023-07-27,Pending
+184,Maternity Leave,2023-06-28,2023-06-29,Pending
+185,Sick Leave,2024-01-08,2024-01-11,Approved
+185,Sick Leave,2022-08-23,2022-09-06,Pending
+186,Personal Leave,2023-07-17,2023-07-20,Approved
+186,Sick Leave,2023-07-08,2023-07-22,Approved
+187,Sick Leave,2022-08-31,2022-09-01,Pending
+187,Maternity Leave,2022-11-13,2022-12-11,Approved
+187,Sick Leave,2023-01-15,2023-01-16,Denied
+187,Personal Leave,2023-05-17,2023-05-24,Denied
+187,Personal Leave,2022-10-17,2022-10-24,Pending
+188,Holiday,2022-08-21,2022-08-24,Approved
+188,Maternity Leave,2023-04-07,2023-04-08,Denied
+189,Maternity Leave,2023-10-09,2023-10-12,Approved
+189,Holiday,2023-04-23,2023-04-26,Approved
+189,Holiday,2023-10-05,2023-11-02,Approved
+189,Maternity Leave,2024-02-24,2024-03-02,Approved
+189,Holiday,2023-10-23,2023-11-06,Approved
+190,Paternity Leave,2022-07-05,2022-07-12,Denied
+190,Paternity Leave,2023-04-28,2023-04-29,Pending
+190,Holiday,2023-05-04,2023-05-11,Approved
+190,Sick Leave,2023-05-13,2023-05-27,Denied
+191,Holiday,2022-10-16,2022-10-30,Pending
+191,Holiday,2024-02-06,2024-02-09,Approved
+191,Sick Leave,2023-08-11,2023-08-25,Approved
+191,Holiday,2023-02-16,2023-02-19,Denied
+192,Holiday,2024-03-29,2024-03-30,Denied
+192,Holiday,2023-07-23,2023-07-26,Approved
+193,Paternity Leave,2024-02-16,2024-02-19,Denied
+193,Holiday,2024-04-01,2024-04-29,Approved
+194,Sick Leave,2024-04-24,2024-04-25,Pending
+194,Sick Leave,2022-06-21,2022-06-24,Pending
+195,Paternity Leave,2024-04-07,2024-05-05,Approved
+195,Personal Leave,2022-08-21,2022-08-28,Pending
+195,Paternity Leave,2022-11-17,2022-11-24,Denied
+195,Paternity Leave,2023-09-05,2023-09-19,Denied
+196,Personal Leave,2023-10-08,2023-10-09,Pending
+196,Sick Leave,2023-07-30,2023-08-27,Pending
+196,Sick Leave,2023-04-04,2023-05-02,Denied
+197,Sick Leave,2024-03-01,2024-03-04,Pending
+198,Personal Leave,2022-06-09,2022-07-07,Approved
+198,Maternity Leave,2023-03-06,2023-03-13,Pending
+198,Personal Leave,2023-11-30,2023-12-14,Denied
+198,Paternity Leave,2023-07-05,2023-07-12,Denied
+198,Paternity Leave,2023-09-07,2023-10-05,Denied
+199,Holiday,2023-11-16,2023-12-14,Denied

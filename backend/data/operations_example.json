@@ -1,0 +1,41 @@
+{
+  "operators": [
+    {
+      "operator": "filter",
+      "query" : "string"
+    },
+    {
+      "operator": "groupBy",
+      "on": "columName"
+    },
+    {
+      "operator": "agg",
+      "type": "count",
+      "on": "columName"
+    },
+    {
+      "operator": "sum",
+      "on": "columName"
+    },
+    {
+      "operator": "agg",
+      "type": "min",
+      "on": "columName"
+    },
+    {
+      "operator": "agg",
+      "type": "max",
+      "on": "columName"
+    },
+    {
+      "operator": "agg",
+      "type": "mean",
+      "on": "columName"
+    },
+    {
+      "operator": "agg",
+      "type": "std",
+      "on": "columName"
+    }
+  ]
+}

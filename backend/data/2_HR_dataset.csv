@@ -1,0 +1,401 @@
+Employee_ID,Name,Age,Gender,Department,Job_Title,Salary,Date_of_Hire,Performance_Rating,Email_Address,Address,Phone_Number,Contract_Type,Seniority
+0,Alexandra Graf,39,Female,Marketing,Marketing Coordinator,80000,2018-11-16,4,xfriedli@example.net,"Leunbergerstrasse 89
+2408 Freiburg",868-223-4880x43201,Contract,Junior
+1,Giacomo Michel,34,Other,HR,HR Manager,120000,2014-05-03,5,leticia08@example.org,"Kägistrasse 42
+5902 Prilly",634.229.6735x7251,Contract,Mid-level
+2,Stefano Wirth,65,Male,Sales,Sales Manager,130000,2022-04-03,1,gloria88@example.com,"Rüeggstrasse 49
+6161 Le Grand-Saconnex",(574)385-1821x520,Permanent,Junior
+3,Irmgard Ritter,40,Female,Marketing,Marketing Coordinator,80000,2014-10-28,4,winkleralbert@example.net,"Stalderstrasse 792
+6568 Altstätten",+1-216-962-1595x7676,Contract,Mid-level
+4,Nikolina Ferrari,60,Other,Operations,Logistics Coordinator,70000,2022-03-18,3,gmarti@example.net,"Wettsteinstrasse 56
+3176 Nyon",+1-426-716-5321x8946,Contract,Senior
+5,Laura Wagner,42,Male,Sales,Sales Manager,130000,2015-02-21,2,zahrawegmann@example.com,"Zehnderstrasse 57
+7022 Glarus",(245)901-3152,Permanent,Mid-level
+6,Prof. Maik Iten,28,Male,Marketing,Marketing Manager,120000,2012-09-13,1,ronaldwettstein@example.com,"Aebistrasse 41
+5342 Sursee",001-727-744-7104,Temporary,Senior
+7,Nicole Kaiser,53,Male,Operations,Logistics Coordinator,70000,2014-07-06,4,isidor38@example.com,"Sutterstrasse 54
+9581 Onex",+1-622-395-4993x9592,Temporary,Senior
+8,Alyssa Schaller,62,Other,Marketing,Marketing Manager,120000,2023-09-02,4,rolfhoffmann@example.com,"Probststrasse 8
+9881 Amriswil",253-764-3896x877,Permanent,Junior
+9,Eliane Leunberger Grob,44,Other,Sales,Sales Representative,85000,2022-10-08,3,emeyer@example.com,"Arnoldstrasse 52
+3124 Horgen",373-827-7785x12070,Permanent,Mid-level
+10,Dennis Hotz,58,Other,Sales,Sales Manager,130000,2020-09-11,2,portmannfrancois@example.org,"Portmannstrasse 83
+9349 Kreuzlingen",693-692-5895,Contract,Junior
+11,Prof. Marco Schär,51,Male,Marketing,Marketing Coordinator,80000,2017-01-20,5,merzemre@example.com,"Stettlerstrasse 23
+5499 Köniz",6255050247,Permanent,Senior
+12,Vreneli Merz,57,Other,IT,Senior Analyst,130000,2013-02-10,4,nstucki@example.com,"Mayerstrasse 87
+4900 Spreitenbach",639.433.0813x758,Contract,Junior
+13,Jutta Winkler,36,Female,HR,HR Specialist,90000,2019-06-18,5,wirthmiran@example.net,"Sennstrasse 91
+6880 Lutry",+1-800-751-3160x6736,Contract,Junior
+14,Josephine Frei Bosshard,52,Female,Finance,Accountant,100000,2013-12-17,2,lustenbergermorena@example.com,"Müllerstrasse 65
+9997 Arth",+1-226-681-7338,Permanent,Senior
+15,Björn Senn,57,Male,Sales,Sales Manager,130000,2017-01-17,3,walterluc@example.net,"Eglistrasse 4
+6419 Lenzburg",400.373.7501x997,Temporary,Mid-level
+16,Björn Christen,64,Other,Finance,Accountant,100000,2017-11-24,4,baumgartnermathis@example.org,"Zieglerstrasse 65
+1564 Zug",001-239-464-4922x0260,Permanent,Senior
+17,Dalia Gerber,48,Male,IT,Senior Analyst,130000,2014-11-04,3,jonathan68@example.net,"Peterstrasse 74
+4479 La Chaux-de-Fonds",461.641.6840,Permanent,Mid-level
+18,Ellen Hotz,36,Male,Operations,Operations Manager,125000,2023-04-02,3,hunzikerjost@example.com,"Bättigstrasse 40
+7403 Sursee",(308)493-9876x458,Contract,Senior
+19,Moira Flückiger,45,Female,Operations,Operations Manager,125000,2013-11-12,3,azizschlatter@example.com,"Schlatterstrasse 20
+4541 Onex",3453892335,Contract,Junior
+20,Samantha Peter,47,Female,Finance,Financial Analyst,110000,2022-07-01,4,hbolliger@example.com,"Kohlerstrasse 13
+6111 Neuenburg",821.530.4218,Contract,Junior
+21,Rolf Eugster,47,Female,IT,IT Support Specialist,95000,2022-09-22,2,bgiger@example.org,"Baderstrasse 3
+2219 Olten",8513299789,Contract,Mid-level
+22,Dr. Leona Felder,59,Female,IT,Software Developer,115000,2015-04-30,5,gregor49@example.org,"Kunzstrasse 83
+3268 Flawil",(810)876-2434,Permanent,Junior
+23,Dario Schwab,60,Other,IT,IT Support Specialist,95000,2023-12-22,4,cwegmann@example.org,"Grossstrasse 996
+4230 Illnau-Effretikon",244-319-2187x25210,Permanent,Senior
+24,Shqipe Gross-Eichenberger,54,Other,Operations,Operations Manager,125000,2022-11-08,4,baderreto@example.net,"Zürcherstrasse 48
+4358 Aesch",9485432985,Contract,Junior
+25,Arta Gloor,39,Female,IT,Senior Analyst,130000,2023-01-03,5,yhafliger@example.net,"Ferraristrasse 48
+4519 Delsberg",(427)650-2528x15456,Permanent,Senior
+26,Davide Rüegg,26,Female,Marketing,Marketing Manager,120000,2022-03-25,4,maeva65@example.net,"Stadelmannstrasse 215
+6447 Aarau",614-605-0562,Contract,Senior
+27,Janis Portmann,29,Male,Operations,Operations Manager,125000,2024-02-05,1,xblum@example.com,"Bauerstrasse 57
+7134 Plan-les-Ouates",824.522.3797,Contract,Senior
+28,Sedat Ernst-Wenger,29,Other,IT,Senior Analyst,130000,2013-03-22,3,nmayer@example.com,"Felderstrasse 94
+2297 Davos",807.850.0790x72739,Contract,Mid-level
+29,Arben Pfister,56,Other,Finance,Financial Analyst,110000,2017-12-30,3,zburri@example.com,"Huberstrasse 22
+7876 Rüti",(415)697-5311x9913,Temporary,Senior
+30,Etienne Stettler,64,Female,Finance,Financial Analyst,110000,2022-06-27,5,eugsterisidor@example.org,"Kägistrasse 235
+2501 Wetzikon",542.996.3671x9119,Temporary,Junior
+31,Matti Ferrari,37,Male,Marketing,Marketing Coordinator,80000,2020-12-19,1,kasparschweizer@example.org,"Baderstrasse 887
+6781 Val-de-Ruz",953.871.2559,Permanent,Junior
+32,Florence Kern,60,Female,Marketing,Marketing Manager,120000,2023-05-06,1,iott@example.org,"Hirtstrasse 90
+6564 Luzern",555.648.3943x40445,Permanent,Mid-level
+33,Lily Schmidt-Wehrli,26,Male,Marketing,Marketing Coordinator,80000,2016-12-05,3,wehrlislavko@example.com,"Schumacherstrasse 11
+5206 Vevey",+1-515-235-4290x825,Temporary,Senior
+34,Samir Blaser,27,Male,Sales,Sales Representative,85000,2015-11-01,2,jkern@example.com,"Stalderstrasse 21
+7283 Oberwil",+1-362-953-3983x061,Contract,Junior
+35,Antoine Probst,49,Female,Finance,Financial Analyst,110000,2015-10-01,1,ggrob@example.net,"Betschartstrasse 87
+9050 Steinhausen",001-386-292-7529x0546,Temporary,Senior
+36,Egzona Hofmann,48,Other,Operations,Logistics Coordinator,70000,2018-11-07,1,gionstettler@example.org,"Kaiserstrasse 53
+5992 Hinwil",001-684-961-0284,Permanent,Senior
+37,Valentina Pfister Maier,61,Other,Operations,Operations Manager,125000,2024-04-10,5,barisstadelmann@example.org,"Schmidstrasse 73
+4739 Richterswil",284.586.8256x3909,Temporary,Senior
+38,Jiri Lehmann,38,Other,Sales,Sales Representative,85000,2012-07-04,4,fernandaschmidt@example.org,"Spörristrasse 580
+1166 Bassersdorf",001-640-628-1595,Permanent,Senior
+39,Gil Hürlimann,64,Male,HR,HR Manager,120000,2017-09-25,3,marlis10@example.org,"Hessstrasse 19
+2759 Vevey",295-965-8453,Contract,Mid-level
+40,Jiri Herzog,40,Female,IT,IT Support Specialist,95000,2020-08-13,4,zpfister@example.net,"Brunnerstrasse 98
+2913 Glarus",6068715543,Permanent,Junior
+41,Nina Fehr,50,Male,Finance,Accountant,100000,2022-02-17,3,graflaszlo@example.com,"Stockerstrasse 5
+1267 Montreux",+1-808-658-8325x622,Temporary,Senior
+42,Yanick Berger,32,Female,Marketing,Marketing Manager,120000,2016-07-31,4,gabrielblum@example.net,"Friedlistrasse 581
+7612 Lugano",001-780-411-6740x428,Permanent,Junior
+43,Leni Sidler,30,Male,HR,HR Specialist,90000,2023-07-26,4,vivientanner@example.org,"Felderstrasse 54
+5806 Grenchen",(511)492-8332x2278,Permanent,Mid-level
+44,Roswitha Hess,25,Female,HR,HR Manager,120000,2016-01-09,1,felbermax@example.org,"Haasstrasse 67
+3137 Glarus",+1-739-489-8698x638,Contract,Junior
+45,Pauline Egger,41,Female,Finance,Financial Analyst,110000,2021-01-25,1,astridbolliger@example.org,"Jäggistrasse 238
+5069 Reinach",691-496-6983x1302,Permanent,Mid-level
+46,Dr. Ruben Stettler,58,Male,Sales,Sales Representative,85000,2020-10-07,5,pius21@example.net,"Schneiderstrasse 2
+2319 Sursee",+1-638-996-1914x3349,Permanent,Mid-level
+47,Carol Hirt,53,Male,HR,HR Manager,120000,2023-05-18,4,loredana94@example.net,"Lustenbergerstrasse 6
+4356 Mendrisio",897-732-6974x922,Contract,Mid-level
+48,Marie-José Walder,59,Other,Operations,Logistics Coordinator,70000,2014-07-29,1,kohlervittorio@example.org,"Wirzstrasse 20
+5832 Stäfa",(401)225-2069,Temporary,Senior
+49,Boris Schär,63,Female,Operations,Operations Manager,125000,2016-01-13,5,myrtarey@example.net,"Bianchistrasse 618
+2718 Villars-sur-Glâne",988.698.6837x963,Permanent,Senior
+50,Prof. Dimitri Brun,31,Female,Finance,Financial Analyst,110000,2012-10-18,1,manon21@example.com,"Bosshardstrasse 6
+5869 Aesch",382-396-2022,Permanent,Mid-level
+51,Sacha Hodel,62,Female,IT,Software Developer,115000,2024-04-12,1,oalbrecht@example.com,"Arnoldstrasse 3
+3999 Langenthal",+1-773-316-0107x6151,Contract,Mid-level
+52,Dora Jenni,34,Other,Sales,Sales Manager,130000,2018-02-21,4,merlin40@example.com,"Martinstrasse 8
+3043 Amriswil",679-730-5073x7020,Contract,Mid-level
+53,Cédric Furrer,31,Female,Sales,Sales Manager,130000,2014-09-29,3,zseiler@example.org,"Flückigerstrasse 2
+9371 Crans-Montana",(455)723-5760x04167,Permanent,Senior
+54,Gani Hess-Schwab,47,Male,Operations,Logistics Coordinator,70000,2019-04-06,1,vmeister@example.com,"Bühlerstrasse 91
+1759 Sarnen",920.264.2289,Permanent,Senior
+55,Françoise Leunberger,34,Male,Marketing,Marketing Manager,120000,2012-11-25,2,felbertil@example.org,"Stöcklistrasse 52
+3833 St. Gallen",001-340-431-1612x7603,Temporary,Junior
+56,Friederike Schweizer Herzog,29,Female,HR,HR Specialist,90000,2020-12-04,3,elisabettakoch@example.org,"Hunzikerstrasse 8
+9489 Affoltern",(536)893-2578,Temporary,Junior
+57,Anna Erni-Hug,57,Female,HR,HR Manager,120000,2024-02-25,4,giancarloseiler@example.net,"Bättigstrasse 50
+7254 Uster",904.781.8161,Contract,Mid-level
+58,Kira Schaller,40,Male,Marketing,Marketing Coordinator,80000,2014-03-20,2,pedrosteffen@example.net,"Merzstrasse 12
+1481 Wettingen",294-982-5409x51552,Temporary,Senior
+59,Merita Arnold,61,Other,Sales,Sales Representative,85000,2019-10-03,3,erikschumacher@example.net,"Beckstrasse 8
+7604 Stäfa",204.431.5401,Temporary,Senior
+60,Prof. Lian Isler,49,Male,Operations,Operations Manager,125000,2016-05-22,2,bolligerburim@example.net,"Lüthistrasse 32
+8941 Naters",(657)493-1033x2051,Contract,Junior
+61,Miriam Schaller-Steffen,27,Other,Operations,Logistics Coordinator,70000,2023-06-25,5,hbernasconi@example.org,"Käserstrasse 81
+5861 Riehen",2586064090,Permanent,Junior
+62,Marlise Fischer Schuler,27,Female,Marketing,Marketing Coordinator,80000,2018-03-18,4,selim65@example.com,"Scheideggerstrasse 89
+5185 Volketswil",7549153110,Temporary,Junior
+63,Anaïs Zürcher,52,Other,Marketing,Marketing Manager,120000,2023-06-20,4,aschar@example.com,"Staufferstrasse 9
+9100 La Tour-de-Peilz",(971)379-8827,Temporary,Mid-level
+64,Janis Baur,45,Other,Finance,Accountant,100000,2022-06-19,4,hofmannjeremy@example.com,"Bühlerstrasse 54
+6086 Münsingen",243-521-5411x02471,Permanent,Junior
+65,Dr. Nicola Schwarz,43,Male,Finance,Accountant,100000,2023-11-10,4,zlatkomarti@example.com,"Kälinstrasse 822
+7974 Arth",+1-925-701-6263x7418,Permanent,Junior
+66,Gian-Luca Grob,59,Female,Marketing,Marketing Coordinator,80000,2020-01-23,1,ernstgiuliana@example.org,"Schumacherstrasse 84
+7825 Sursee",728.665.0977,Temporary,Senior
+67,Katja Kohler,45,Male,IT,Software Developer,115000,2012-06-27,4,samuele45@example.net,"Hafnerstrasse 65
+4491 Mendrisio",456-617-1275x760,Permanent,Junior
+68,Dr. Merlin Leunberger,48,Other,IT,Senior Analyst,130000,2018-03-17,2,sinan62@example.net,"Lehmannstrasse 33
+7982 Kreuzlingen",(250)423-6477x6970,Contract,Junior
+69,Luca Vogel-Schär,39,Male,Sales,Sales Manager,130000,2019-04-11,5,toblerenzo@example.com,"Zollingerstrasse 78
+5778 Freiburg",(456)471-1423x65306,Contract,Mid-level
+70,Svenja Vogel Wüthrich,51,Other,HR,HR Specialist,90000,2022-02-06,1,ykaufmann@example.net,"Zieglerstrasse 9
+8317 Sarnen",(668)702-5395x860,Contract,Mid-level
+71,Ganimete Steffen,38,Other,IT,Software Developer,115000,2023-08-11,4,langmaik@example.com,"Scheideggerstrasse 13
+5549 Herisau",+1-233-874-8549x1447,Temporary,Junior
+72,Dr. Altin Meier,41,Female,IT,Senior Analyst,130000,2023-12-18,3,denis69@example.net,"Meierstrasse 73
+8068 Nyon",9567875943,Contract,Junior
+73,Mia Fischer-Wagner,31,Other,Finance,Accountant,100000,2015-07-11,5,dmaier@example.net,"Gasserstrasse 958
+5044 Steinhausen",6695222863,Contract,Senior
+74,Prof. Helga Marti,54,Male,IT,IT Support Specialist,95000,2017-02-19,2,weberwalter@example.net,"Schulerstrasse 1
+7005 Muri",(799)505-6590,Permanent,Senior
+75,Ina Isler,32,Male,IT,Senior Analyst,130000,2021-12-19,3,kaserandrea@example.com,"Ritterstrasse 329
+1868 Cham",(647)756-3994x383,Contract,Mid-level
+76,Domingos Arnold,42,Male,Marketing,Marketing Manager,120000,2015-09-09,4,omarti@example.net,"Wüthrichstrasse 7
+4214 Pully",001-510-444-5955x0925,Contract,Senior
+77,Nicole Berger-Kern,51,Male,IT,IT Support Specialist,95000,2017-08-29,4,ckoch@example.net,"Merzstrasse 65
+4733 Rüti",534-250-2553,Contract,Mid-level
+78,Driton Betschart,63,Female,Operations,Operations Manager,125000,2015-01-21,4,peterrosemarie@example.net,"Schweizerstrasse 1
+9899 Burgdorf",+1-785-426-6325,Permanent,Junior
+79,Nando Jäggi,40,Male,IT,IT Support Specialist,95000,2012-10-03,4,othommen@example.com,"Stadelmannstrasse 58
+2938 Freiburg",001-890-444-5756x89871,Contract,Junior
+80,Lotti Stöckli Hofer,37,Other,Marketing,Marketing Coordinator,80000,2013-09-17,5,teodoramarti@example.org,"Meilistrasse 887
+8499 Sitten",233-657-0090x742,Permanent,Mid-level
+81,Sanije Ackermann,37,Other,Operations,Logistics Coordinator,70000,2022-03-27,4,gerdwagner@example.com,"Michelstrasse 41
+2204 Sitten",911-305-3137,Temporary,Senior
+82,Gudrun Ferrari,58,Male,Operations,Logistics Coordinator,70000,2015-06-13,1,zkoch@example.org,"Hodelstrasse 625
+8276 Baden",8306048947,Contract,Junior
+83,Leona Hofmann-Gfeller,60,Other,IT,Senior Analyst,130000,2013-11-21,1,freyjulien@example.org,"Winklerstrasse 8
+4089 Thalwil",312.790.4781x659,Temporary,Junior
+84,Christel Brunner,30,Other,Marketing,Marketing Coordinator,80000,2014-08-21,2,njaggi@example.net,"Michelstrasse 54
+2259 Neuenburg",624.486.0141x624,Temporary,Senior
+85,Marika Bühler Jenni,59,Other,Operations,Logistics Coordinator,70000,2017-03-07,2,melinaiten@example.net,"Wettsteinstrasse 15
+4861 Vevey",001-843-770-5907x96294,Temporary,Mid-level
+86,Lian Herzog,62,Female,HR,HR Manager,120000,2013-12-10,3,arnoldveronica@example.net,"Mettlerstrasse 48
+9800 Grenchen",566.472.3642x74339,Temporary,Mid-level
+87,Carolin Iten,37,Male,Operations,Operations Manager,125000,2023-05-05,5,michelhermann@example.com,"Ackermannstrasse 4
+8566 Münsingen",+1-343-459-4617,Temporary,Mid-level
+88,Leonard Koch-Geiger,26,Other,Operations,Operations Manager,125000,2020-09-27,5,mariaammann@example.com,"Meyerstrasse 7
+2326 Zollikofen",001-254-767-8493x86926,Contract,Senior
+89,Marie Erni,43,Female,HR,HR Specialist,90000,2012-06-12,4,paebi@example.com,"Knechtstrasse 543
+4796 Chur",+1-222-293-3110x87880,Contract,Mid-level
+90,Theresa Bär,51,Female,Operations,Operations Manager,125000,2019-06-30,2,malikahartmann@example.com,"Eggerstrasse 68
+4509 Suhr",595.810.4752,Contract,Mid-level
+91,Jetmir Steiger,27,Female,Operations,Operations Manager,125000,2022-07-25,4,mayerbeatriz@example.net,"Merzstrasse 9
+3129 Illnau-Effretikon",+1-231-671-7520x1690,Temporary,Senior
+92,Rosalia Bolliger Mäder,64,Female,HR,HR Specialist,90000,2017-06-09,1,martin26@example.org,"Baumgartnerstrasse 8
+4645 Altstätten",(560)500-9695x4942,Temporary,Mid-level
+93,Anisa Frei,39,Other,Sales,Sales Manager,130000,2017-05-30,5,meyermichael@example.org,"Bucherstrasse 5
+6126 Villars-sur-Glâne",001-409-816-2375x126,Temporary,Junior
+94,Aida Schumacher,53,Other,Finance,Financial Analyst,110000,2023-11-05,4,pziegler@example.org,"Wirzstrasse 65
+5338 Siders",(358)886-9529x18351,Contract,Junior
+95,Marcella Maier,25,Other,Operations,Operations Manager,125000,2021-01-28,3,frickmalea@example.org,"Flückigerstrasse 50
+4674 Regensdorf",487.879.5467,Temporary,Mid-level
+96,Ginette Mayer,25,Male,Operations,Operations Manager,125000,2019-01-28,1,bschweizer@example.net,"Flückigerstrasse 8
+4344 Spiez",+1-951-255-0102,Contract,Senior
+97,Aldo Bachmann,35,Male,HR,HR Manager,120000,2016-07-25,1,ojenni@example.org,"Grossstrasse 90
+5177 Lancy",+1-637-869-3119x01295,Contract,Senior
+98,Antonina Hürlimann,58,Female,HR,HR Manager,120000,2014-03-22,4,lotharknecht@example.com,"Schwabstrasse 7
+2789 Wil",001-703-810-0173,Temporary,Senior
+99,Hartmut Stocker,60,Other,IT,Software Developer,115000,2019-01-16,5,andrewbrunner@example.net,"Gloorstrasse 7
+9149 Altstätten",+1-984-597-7077x462,Temporary,Senior
+100,Alfred Winkler,50,Male,IT,Senior Analyst,130000,2020-08-28,3,haslerruzica@example.net,"Kälinstrasse 47
+8259 Delsberg",360.917.3103x8081,Temporary,Mid-level
+101,Yanis Studer,46,Male,Sales,Sales Representative,85000,2017-01-24,5,obader@example.com,"Ritterstrasse 27
+8202 Liestal",+1-507-903-7186x3121,Temporary,Junior
+102,Rosina Knecht Stutz,48,Male,Sales,Sales Representative,85000,2019-07-05,1,shaniagross@example.com,"Blumstrasse 11
+7322 Frauenfeld",8314120494,Contract,Mid-level
+103,Irene Portmann Walder,53,Female,Finance,Accountant,100000,2012-06-04,5,ismail91@example.net,"Haslerstrasse 40
+7888 Rüti",001-686-841-1018x51666,Permanent,Senior
+104,Prof. Alice Haas,47,Other,Sales,Sales Representative,85000,2013-04-30,5,amirprobst@example.com,"Scherrerstrasse 65
+6044 Glarus",308-272-0636x053,Temporary,Senior
+105,Quentin Schumacher,41,Male,IT,Software Developer,115000,2024-04-21,3,debora70@example.com,"Leunbergerstrasse 4
+8306 Birsfelden",(935)752-9917x9789,Contract,Senior
+106,Alba Bieri Benz,63,Other,HR,HR Specialist,90000,2012-07-15,4,zoran74@example.org,"Bauerstrasse 57
+9813 Volketswil",906.670.1433,Permanent,Mid-level
+107,Tabea Scherrer,43,Other,IT,Software Developer,115000,2018-02-14,5,felberklaus@example.com,"Schlatterstrasse 3
+3813 Gossau",001-327-539-5800x957,Contract,Mid-level
+108,Nicolas Eichenberger,55,Other,Operations,Logistics Coordinator,70000,2021-11-10,4,charlotte39@example.net,"Zbindenstrasse 12
+4072 Val-de-Ruz",777-702-2677x798,Permanent,Mid-level
+109,Mélanie Schneider,44,Female,Operations,Operations Manager,125000,2012-10-22,4,orlandobrunner@example.net,"Martistrasse 97
+3954 Münchenstein",(558)217-5597x74473,Temporary,Mid-level
+110,Maddalena Betschart,40,Female,Sales,Sales Manager,130000,2015-07-08,2,marius77@example.com,"Wehrlistrasse 6
+6827 Burgdorf",(479)453-6798,Contract,Mid-level
+111,Prof. Adrian Grob,58,Female,IT,IT Support Specialist,95000,2023-03-07,5,volker51@example.com,"Stuckistrasse 52
+5894 Allschwil",+1-410-804-9430x9398,Contract,Mid-level
+112,Joël Betschart-Marti,34,Female,Marketing,Marketing Manager,120000,2013-02-03,2,hschneider@example.com,"Lustenbergerstrasse 44
+8928 Lausanne",381-437-9002x95977,Temporary,Senior
+113,Drita Hirt,51,Female,Finance,Accountant,100000,2023-08-15,1,ahmad06@example.org,"Schärerstrasse 505
+2817 Freienbach",(385)633-3428x38225,Permanent,Senior
+114,Arno Wegmann,37,Female,Operations,Operations Manager,125000,2019-05-21,3,josefinabenz@example.net,"Schenkstrasse 33
+3911 Zug",(238)500-7278,Temporary,Mid-level
+115,María Graf,26,Other,Operations,Logistics Coordinator,70000,2016-07-29,2,teichenberger@example.org,"Steinmannstrasse 9
+2655 Langenthal",231.954.2930x8986,Contract,Junior
+116,Malgorzata Gross-Brunner,37,Other,Finance,Accountant,100000,2020-06-19,2,mariapeter@example.net,"Mettlerstrasse 266
+8373 Affoltern",740.784.2557x28753,Temporary,Mid-level
+117,Enes Wegmann-Lüscher,43,Male,Marketing,Marketing Coordinator,80000,2016-09-06,2,grossfelix@example.org,"Wirthstrasse 26
+7060 Amriswil",+1-281-465-4524x48250,Contract,Mid-level
+118,Prof. Margrith Rüegg,32,Male,Operations,Logistics Coordinator,70000,2015-01-21,5,domingos70@example.com,"Bauerstrasse 772
+6168 Münchenstein",(521)850-2980,Permanent,Mid-level
+119,Muhamed Kaiser-Knecht,45,Female,Operations,Logistics Coordinator,70000,2013-05-25,5,stocklisylviane@example.com,"Christenstrasse 208
+9252 Zollikofen",279.213.3628x662,Temporary,Mid-level
+120,Marie-France Huber Jenni,61,Male,Marketing,Marketing Coordinator,80000,2023-06-07,1,josefina67@example.org,"Weberstrasse 16
+2402 Prilly",241.859.3744x53547,Permanent,Senior
+121,Curdin Ott,61,Male,HR,HR Specialist,90000,2013-11-13,5,jostkalin@example.net,"Knechtstrasse 28
+4579 Wallisellen",001-886-434-5437x122,Contract,Senior
+122,Francesca Bucher,42,Female,IT,Software Developer,115000,2015-04-12,2,timhodel@example.com,"Joststrasse 3
+2885 Urdorf",+1-964-953-8305x7643,Contract,Junior
+123,Nuno Jost,55,Male,Operations,Logistics Coordinator,70000,2021-11-13,3,milenahofer@example.net,"Bolligerstrasse 81
+9594 Wil",219-412-5135x88496,Temporary,Junior
+124,Kemal Staub,48,Male,IT,IT Support Specialist,95000,2023-08-16,5,tmartin@example.com,"Widmerstrasse 92
+2311 Männedorf",001-524-829-4535,Permanent,Senior
+125,Marijana Schwab,52,Other,Sales,Sales Representative,85000,2015-05-13,4,irynakern@example.net,"Weibelstrasse 1
+5352 Rüti",001-389-490-5974,Contract,Senior
+126,Sven Schwarz,50,Female,Marketing,Marketing Manager,120000,2014-07-18,4,ilija15@example.net,"Bärstrasse 282
+6008 Luzern",571.863.1863x38045,Temporary,Junior
+127,Urs Schneider,49,Female,Marketing,Marketing Coordinator,80000,2012-07-19,4,yaseminbolliger@example.com,"Amreinstrasse 54
+2614 Münchenstein",605.605.8503x00277,Temporary,Mid-level
+128,Luz Moser Lang,64,Male,HR,HR Manager,120000,2024-01-28,2,meiliwilli@example.com,"Lanzstrasse 69
+5424 Ecublens",+1-211-388-5310x0017,Temporary,Mid-level
+129,Wendelin Schnyder-Näf,29,Other,IT,Software Developer,115000,2021-04-17,3,ismailsteinmann@example.com,"Zehnderstrasse 71
+6845 Thônex",5867731274,Contract,Junior
+130,Ursula Bieri Schlatter,63,Other,Marketing,Marketing Coordinator,80000,2021-03-01,3,timon49@example.org,"Eugsterstrasse 42
+6918 Zug",+1-583-803-4398x944,Contract,Mid-level
+131,Helga Favre,48,Male,Finance,Accountant,100000,2021-10-27,5,yusufhug@example.net,"Steinerstrasse 44
+9174 Bassersdorf",(843)851-7985,Permanent,Senior
+132,Therese Wegmann,65,Male,Marketing,Marketing Manager,120000,2014-12-29,4,hunzikerjohann@example.org,"Bolligerstrasse 31
+5962 Horw",+1-531-862-2038,Contract,Mid-level
+133,Jérôme Aebi,65,Other,Finance,Financial Analyst,110000,2020-06-24,4,remy66@example.net,"Grafstrasse 1
+9833 Romanshorn",001-830-365-0866x4477,Temporary,Junior
+134,Dr. Diar Hasler,53,Male,Operations,Logistics Coordinator,70000,2022-03-18,1,hartmannelena@example.com,"Baumgartnerstrasse 133
+6011 Illnau-Effretikon",290-805-2297x02225,Permanent,Mid-level
+135,Flavia Mettler,41,Female,Operations,Operations Manager,125000,2022-02-17,2,stauffergiuseppa@example.org,"Wettsteinstrasse 23
+3304 Nyon",+1-401-284-0837,Temporary,Mid-level
+136,Mohammed Kern,44,Female,HR,HR Specialist,90000,2020-03-22,5,lpfister@example.net,"Freistrasse 21
+2972 Neuenburg",918-326-5940,Temporary,Mid-level
+137,Dr. Gertrud Jenni,48,Female,Sales,Sales Representative,85000,2022-01-27,4,rhofer@example.net,"Küngstrasse 44
+4008 Stäfa",468-262-7752x93029,Temporary,Senior
+138,Cédric Giger,50,Female,Finance,Accountant,100000,2013-09-18,4,istettler@example.net,"Schärerstrasse 2
+1782 Thalwil",237.568.6909,Temporary,Senior
+139,Nikola Felber-Baumann,55,Female,Marketing,Marketing Manager,120000,2022-08-01,2,layla65@example.com,"Wehrlistrasse 34
+7227 Kriens",656.949.2445x01373,Permanent,Junior
+140,Hans-Jürgen Suter-Lehmann,47,Female,Sales,Sales Manager,130000,2014-06-14,3,gott@example.org,"Haasstrasse 719
+8424 Veyrier",9083921772,Contract,Junior
+141,Marta Iten,31,Other,Marketing,Marketing Manager,120000,2021-08-05,3,asteinmann@example.org,"Schärstrasse 4
+8719 Luzern",001-294-953-9179,Contract,Mid-level
+142,Zeynep Wegmann,50,Female,Marketing,Marketing Manager,120000,2021-03-04,1,dagmar41@example.org,"Schweizerstrasse 20
+7528 Lutry",+1-428-402-3453x6386,Contract,Junior
+143,Carolina Wirz,28,Female,IT,IT Support Specialist,95000,2023-02-13,5,aldin69@example.org,"Ferraristrasse 64
+4207 Volketswil",(505)271-9065x57971,Contract,Senior
+144,Louise Brunner,41,Female,Operations,Operations Manager,125000,2020-10-09,1,ileniawirth@example.net,"Wolfstrasse 27
+6784 Allschwil",469.359.7281,Permanent,Mid-level
+145,Mohamed Probst,52,Female,IT,Senior Analyst,130000,2015-12-24,2,ybenz@example.com,"Wyssstrasse 238
+7502 Olten",+1-719-411-5491x144,Permanent,Mid-level
+146,Sérgio Felber,62,Male,Marketing,Marketing Manager,120000,2019-08-08,3,fpeter@example.org,"Weibelstrasse 431
+6927 Wallisellen",(947)386-1016x04268,Contract,Senior
+147,Edmund Wirth,39,Other,Marketing,Marketing Manager,120000,2012-11-02,5,hans-peterkung@example.net,"Walderstrasse 9
+4074 Regensdorf",+1-678-517-2616,Temporary,Senior
+148,Agnieszka Probst,56,Male,IT,IT Support Specialist,95000,2017-04-14,5,hbeck@example.org,"Kellerstrasse 36
+7504 Pfäffikon",260-228-1295,Permanent,Mid-level
+149,Georgette Probst,59,Female,Finance,Accountant,100000,2016-10-08,2,schwarzhamza@example.org,"Probststrasse 7
+2517 Oberwil",817.859.3742x51212,Contract,Junior
+150,Dr. Ginette Gross,45,Other,Marketing,Marketing Coordinator,80000,2020-07-25,3,claudia94@example.org,"Staufferstrasse 82
+3420 Neuhausen",7082437869,Temporary,Junior
+151,Andreia Winkler,65,Female,HR,HR Manager,120000,2023-04-16,2,rooselea@example.org,"Schenkstrasse 606
+3053 Suhr",516-387-1918x876,Temporary,Senior
+152,Prof. Mentor Wenger,38,Male,Marketing,Marketing Manager,120000,2018-11-11,3,lwegmann@example.net,"Furrerstrasse 80
+3167 Sarnen",(475)891-5433x281,Permanent,Mid-level
+153,Branka Müller,36,Male,Operations,Operations Manager,125000,2016-03-07,3,ileunberger@example.org,"Seilerstrasse 58
+6139 Steffisburg",820-973-3631,Temporary,Junior
+154,Amin Stalder,63,Male,Finance,Accountant,100000,2012-10-14,3,bschwab@example.com,"Langstrasse 804
+5367 Lutry",(221)881-2616,Permanent,Junior
+155,Jeremy Peter,58,Female,IT,IT Support Specialist,95000,2022-05-18,4,hforster@example.com,"Fuchsstrasse 72
+7849 Worb",612.725.6944x257,Permanent,Junior
+156,Giuseppe Wegmann,45,Male,Marketing,Marketing Coordinator,80000,2021-06-20,5,alenkuhn@example.net,"Baderstrasse 7
+3086 Illnau-Effretikon",001-605-785-7166,Temporary,Senior
+157,Stefanie Thommen,42,Male,HR,HR Specialist,90000,2018-01-07,3,melisa20@example.net,"Stöcklistrasse 916
+1615 Lausanne",(260)980-8003,Temporary,Senior
+158,Vlora Wettstein Zehnder,25,Male,Finance,Accountant,100000,2017-09-10,4,nfischer@example.com,"Bühlmannstrasse 605
+1658 Schlieren",001-541-565-4529,Permanent,Mid-level
+159,Dr. Lavinia Sidler,57,Male,IT,Software Developer,115000,2014-10-18,1,vstutz@example.com,"Brunnerstrasse 57
+7496 Bellinzona",+1-986-859-7882,Permanent,Senior
+160,Fatima Bühler Wettstein,31,Male,IT,Software Developer,115000,2014-11-05,3,wegmannloris@example.net,"Gfellerstrasse 45
+4507 Romanshorn",(554)816-7738,Permanent,Junior
+161,Lidia Hunziker Hermann,27,Male,Sales,Sales Manager,130000,2017-03-11,2,hubersedat@example.org,"Albrechtstrasse 34
+1974 Martigny",693-659-6321x75026,Contract,Mid-level
+162,Carmela Favre,43,Male,Sales,Sales Manager,130000,2022-11-29,4,lehmannedmond@example.net,"Hermannstrasse 1
+8856 Neuhausen",(895)436-2396x79475,Contract,Junior
+163,Aurelia Wirz,29,Female,HR,HR Manager,120000,2017-12-17,4,merzpatrik@example.net,"Hoffmannstrasse 7
+1859 Horgen",(971)949-9879,Temporary,Senior
+164,Salih Meyer,59,Female,Finance,Accountant,100000,2014-12-07,3,vaniaziegler@example.com,"Wehrlistrasse 52
+1121 Yverdon-les-Bains",356.242.7117x98114,Contract,Senior
+165,Wilma Bieri,26,Male,Operations,Logistics Coordinator,70000,2016-10-28,4,leunbergercharles@example.com,"Islerstrasse 9
+4686 Münchenstein",854.771.7533x912,Contract,Senior
+166,Lorena Zehnder,34,Male,IT,IT Support Specialist,95000,2023-02-17,1,ronjaherzog@example.net,"Bachmannstrasse 98
+1989 Glarus",852.978.2027x588,Temporary,Mid-level
+167,Ryan Roth,51,Male,Sales,Sales Representative,85000,2020-08-13,5,roosamira@example.org,"Ernistrasse 9
+3153 Küssnacht",511-637-5326,Contract,Senior
+168,Sergej Vogt,64,Other,Marketing,Marketing Coordinator,80000,2022-05-17,2,knechtsamuel@example.org,"Christenstrasse 98
+3568 Emmen",227.222.3270x90375,Contract,Junior
+169,Abdul Zbinden,55,Female,Operations,Logistics Coordinator,70000,2017-10-27,5,marian65@example.org,"Kaiserstrasse 36
+6524 Morges",(825)760-4612,Permanent,Junior
+170,Marlen Käser,59,Male,Marketing,Marketing Coordinator,80000,2021-01-15,1,karensteffen@example.org,"Eichenbergerstrasse 45
+3307 Frauenfeld",463-930-9292,Temporary,Mid-level
+171,Jonathan Mäder-Schlatter,46,Female,Marketing,Marketing Coordinator,80000,2012-11-14,3,niels07@example.com,"Felberstrasse 753
+9402 Payerne",492-290-5778x63384,Permanent,Senior
+172,Azra Sigrist,49,Other,Sales,Sales Representative,85000,2019-04-03,4,istauffer@example.com,"Fehrstrasse 85
+1300 Wädenswil",920.402.6540x0503,Permanent,Junior
+173,Meryem Blaser,39,Male,IT,Senior Analyst,130000,2014-06-24,3,weberbesim@example.net,"Sigriststrasse 596
+3004 Delsberg",7103607827,Temporary,Senior
+174,Eileen Stalder Ammann,49,Female,Marketing,Marketing Manager,120000,2013-09-18,4,arnolddeborah@example.com,"Haslerstrasse 4
+2744 Stäfa",753.733.4038x3841,Contract,Mid-level
+175,Edmond Eugster,32,Male,Sales,Sales Manager,130000,2015-02-02,3,nfelber@example.com,"Christenstrasse 16
+8256 Veyrier",001-509-609-8465x19301,Permanent,Mid-level
+176,Lydia Steiger Wirth,58,Male,Operations,Logistics Coordinator,70000,2022-01-25,4,josefurrer@example.org,"Lehmannstrasse 78
+3704 Bern",373-804-5621x9675,Permanent,Mid-level
+177,Elke Bader,43,Female,HR,HR Specialist,90000,2019-10-26,5,wmartin@example.com,"Staubstrasse 2
+5783 Thônex",7252729109,Temporary,Senior
+178,Leart Meyer,64,Female,Marketing,Marketing Manager,120000,2022-01-15,3,casparhess@example.net,"Kernstrasse 13
+8462 Glarus",001-924-895-2883,Permanent,Junior
+179,Hans-Jörg Lang,56,Female,Finance,Financial Analyst,110000,2015-01-16,2,arta87@example.com,"Michelstrasse 87
+2086 Bülach",696-475-4194x29699,Contract,Mid-level
+180,Dr. Loris Schaller,38,Female,Sales,Sales Representative,85000,2017-04-07,5,elfriede64@example.net,"Felderstrasse 532
+9519 Cham",001-927-227-0218x157,Contract,Junior
+181,Janosch Näf,59,Male,Finance,Financial Analyst,110000,2021-06-27,2,ammanncarlos@example.net,"Vogtstrasse 80
+3056 Adliswil",001-996-427-9208x0273,Contract,Senior
+182,Letizia Kunz Schneider,58,Female,Sales,Sales Manager,130000,2024-04-23,1,eminejenni@example.com,"Christenstrasse 23
+8480 La Tour-de-Peilz",314-687-8415x9216,Contract,Junior
+183,Dr. Liam Zollinger,38,Female,Marketing,Marketing Coordinator,80000,2012-09-27,4,hhurlimann@example.com,"Müllerstrasse 91
+5873 Neuenburg",(661)230-0881x6257,Permanent,Senior
+184,Giuliano Marti-Hug,43,Female,Operations,Logistics Coordinator,70000,2016-05-24,5,pierina90@example.com,"Studerstrasse 1
+7013 Aarau",+1-337-452-8141x0965,Permanent,Senior
+185,Liliana Gloor,57,Male,Sales,Sales Representative,85000,2020-07-06,4,kblaser@example.com,"Mäderstrasse 3
+5421 Schaffhausen",001-767-255-6739x49310,Permanent,Mid-level
+186,Prof. Janis Eugster,27,Female,Marketing,Marketing Manager,120000,2020-11-15,3,nicholas52@example.net,"Hürlimannstrasse 2
+5657 Meilen",851-747-4240x82360,Contract,Junior
+187,Juana Schneider,44,Female,Marketing,Marketing Manager,120000,2023-02-06,4,liridona43@example.com,"Hofstetterstrasse 604
+3684 Uster",7218555024,Permanent,Senior
+188,Angelina Gloor,47,Female,Sales,Sales Manager,130000,2023-09-07,5,wirthluis@example.com,"Stutzstrasse 60
+4967 Steffisburg",642.736.2235x6072,Permanent,Mid-level
+189,Erich Hess,27,Female,Operations,Logistics Coordinator,70000,2019-01-21,3,rzurcher@example.org,"Staubstrasse 4
+3364 Schlieren",524.261.4489x18628,Temporary,Senior
+190,Prof. Besim Steffen,48,Male,Finance,Accountant,100000,2016-02-07,3,leudimitri@example.org,"Staubstrasse 7
+1280 Solothurn",001-417-890-1083x752,Permanent,Mid-level
+191,Marian Meyer,64,Female,Sales,Sales Representative,85000,2017-12-23,5,schurchgiada@example.org,"Benzstrasse 633
+4899 Kreuzlingen",946.970.0223x3765,Permanent,Mid-level
+192,Marlise Ritter,26,Female,IT,IT Support Specialist,95000,2016-06-26,2,gustav15@example.org,"Meierstrasse 90
+9724 Ebikon",732.272.0159,Temporary,Mid-level
+193,Tanya Zollinger,59,Female,Finance,Accountant,100000,2017-03-21,5,wjaggi@example.com,"Meilistrasse 74
+6553 Lutry",+1-710-572-3298x5409,Temporary,Mid-level
+194,Quentin Hodel,35,Female,HR,HR Manager,120000,2021-01-13,4,studerradmila@example.com,"Schürchstrasse 95
+3005 Zürich",001-271-480-8252x10501,Permanent,Mid-level
+195,Sonja Peter Frei,39,Other,Marketing,Marketing Manager,120000,2018-10-22,2,qschaller@example.net,"Zieglerstrasse 3
+2175 Einsiedeln",777-890-3186,Temporary,Junior
+196,Prof. Fatima Wirz,43,Male,IT,Software Developer,115000,2017-09-04,4,pegli@example.net,"Scheideggerstrasse 207
+4286 Reinach",728.963.3286x02804,Permanent,Junior
+197,Simone Kägi,38,Male,Finance,Financial Analyst,110000,2014-05-21,3,battigtanja@example.org,"Bieristrasse 23
+5031 Horw",974-584-9985,Contract,Senior
+198,Drita Frey-Bühler,26,Male,Marketing,Marketing Coordinator,80000,2017-03-07,1,steffenjoris@example.net,"Frickstrasse 389
+6866 Martigny",667-254-7977,Contract,Mid-level
+199,Zita Stöckli,62,Male,IT,Senior Analyst,130000,2019-07-29,4,magnuszbinden@example.net,"Jennistrasse 44
+6424 Stäfa",2318753276,Contract,Junior
