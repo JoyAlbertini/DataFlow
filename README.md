@@ -42,3 +42,11 @@ Install requirements
 pip install -r requirements.txt
 ```
 
+## Collaborators 
+This project was developed with the help of : 
+@alessiogiovagnini : https://github.com/alessiogiovagnini
+@Jacobsalvi https://github.com/JacobSalvi
+
+
+
+
